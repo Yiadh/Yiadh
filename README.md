@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm [Yiadh TLIJANI](https://www.linkedin.com/in/ytlijani/)
-> Engineer and Content Creator
+> Senior DevSecOps Engineer and Content Creator
 
 
 
 
 <div>
  <p>
-Senior DevOps engineer, strongly passionate about designing infrastructure and services and solving problems with cutting-edge technology.
+Senior DevSecOps engineer, strongly passionate about designing infrastructure and services and solving problems with cutting-edge technology.
 
 Primarily focused on Microservices Architecture, Containers Orchestration Systems/Platforms (Kubernetes ⎈, Openshit and Rancher), Service Mesh Technologies (Istio/Envoy), Infrastructure as Code Tools (Ansible, Puppet, Chef and Terraform), Public Cloud Providers (AWS, GCP, Azure) and Infrastructures/Applications Security.
 
