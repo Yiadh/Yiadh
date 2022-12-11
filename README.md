@@ -11,12 +11,12 @@ Senior DevSecOps engineer, strongly passionate about designing infrastructure an
 Primarily focused on Microservices Architecture, Containers Orchestration Systems/Platforms (Kubernetes ⎈, Openshit and Rancher), Service Mesh Technologies (Istio/Envoy), Infrastructure as Code Tools (Ansible, Puppet, Chef and Terraform), Public Cloud Providers (AWS, GCP, Azure) and Infrastructures/Applications Security.
 
 Certified:
-- Kubernetes Security Specialist (CKS)
-- Kubernetes Administrator (CKA)
-- Kubernetes Application Developer (CKAD)
-- Expert for Istio Service Mesh by solo.io
+- [Kubernetes Security Specialist (CKS)](https://www.credly.com/badges/1984b599-3202-4221-861a-4f4bfdf46a56)
+- [Kubernetes Administrator (CKA)](https://www.credly.com/badges/75d4535e-e475-4df5-9c81-1f2ba465c15b)
+- [Kubernetes Application Developer (CKAD)](https://www.credly.com/badges/98e8206e-c806-4eeb-ab7f-87c0058e928a)
+- [Expert for Istio Service Mesh by solo.io](https://www.credly.com/badges/55f0c569-7e4b-40e3-b2af-7d0bc063dd69)
 
-Founder of DevOpsBootcamp.org, an Ad-Free blog aimed at providing tutorials, reference architectures and hands-on training in DevOps and Automation Technologies.
+Founder of [DevOpsBootcamp.org](https://www.devopsbootcamp.org), an Ad-Free blog aimed at providing tutorials, reference architectures and hands-on training in DevOps and Automation Technologies.
    
    
 - 🔭 I’m currently working on all things consulting, writing, and content around Kubernetes 
