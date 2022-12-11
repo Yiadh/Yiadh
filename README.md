@@ -21,7 +21,7 @@ Founder of [DevOpsBootcamp.org](https://www.devopsbootcamp.org), an Ad-Free blog
    
 - 🔭 I’m currently working on all things consulting, writing, and content around Kubernetes 
 - 💬 Ask me about Kubernetes, cloud-native, DevOps, content creation, public speaking, and collaborating with the world!
-- 📫 How to reach me: Linkedin: linkedin.com/in/ytlijani or email: yiadh.tlijani@gmail.com
+- 📫 How to reach me: Linkedin: [linkedin.com/in/ytlijani](https://www.linkedin.com/in/ytlijani/) or email: yiadh.tlijani@gmail.com
 - 😄 Home Base: https://www.devopsbootcamp.org
 
 </p>
